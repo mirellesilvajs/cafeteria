@@ -1,0 +1,45 @@
+body {
+    background-image: url('img/1fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+div {
+    width: 800px;
+    height: 100%;
+    background-color: rgb(233, 255, 232);
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+img {
+    text-align: center;
+    border-radius: 10px;
+    border-color: 50px solid green;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    color: rgb(8, 100, 8);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: coral;
+    font-family: Impact;
+    padding-top: 20px;
+
+}
+
+p {
+    text-align: justify;
+    padding: 10px 30px;
+
+}
